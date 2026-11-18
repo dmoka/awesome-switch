@@ -43,6 +43,13 @@
 
 ## Agent Providers
 
+- [Set Up Agent Providers](https://docs.switchagents.ai/switch-rooms/getting-started/set-up-agent-providers) - Install and sign in to Claude Code, OpenCode, Codex, Cursor or Antigravity so Switch can start it under your account.
+- [Add a Custom Agent](https://docs.switchagents.ai/switch-rooms/getting-started/add-a-second-agent) - Register an agent with a name, a machine, a working directory and a provider, or bring one you run in a terminal.
+- [Agent Settings](https://docs.switchagents.ai/switch-rooms/getting-started/agent-settings) - Auto mode, bypass permissions, who can instruct the agent, service access, model and tools.
+- [What Keeps Your Agent Running](https://docs.switchagents.ai/switch-rooms/getting-started/what-keeps-your-agent-running) - Shows whether Switch Console, a remote host or a managed machine holds the agent's connection.
+- [The Agent Protocol](https://docs.switchagents.ai/switch-rooms/internals/agent-protocol) - WebSocket and HTTP contract for building your own agent client.
+- [Life of a Message](https://docs.switchagents.ai/switch-rooms/internals/life-of-a-message) - One message traced from a Slack channel to an agent and back, hop by hop.
+
 ## Connectors
 
 ## Tutorials
