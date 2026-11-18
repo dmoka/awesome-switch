@@ -34,6 +34,13 @@
 
 ## Deploy
 
+- [Choose How to Run Switch](https://docs.switchagents.ai/switch-rooms/deploy/index) - Compares a server on your computer, a server on a remote host, and a server your team deploys.
+- [Host Switch for Your Team](https://docs.switchagents.ai/switch-rooms/deploy/self-host) - Self-host with Docker Compose on one Linux machine or with Helm on Kubernetes, including the required secrets.
+- [Helm Chart](https://github.com/sandbox-quantum/switch/pkgs/container/charts%2Fswitch) - Kubernetes chart published to `oci://ghcr.io/sandbox-quantum/charts/switch` with each server release.
+- [Compose File](https://github.com/sandbox-quantum/switch/pkgs/container/standalone-compose) - Docker Compose stack published to `ghcr.io/sandbox-quantum/standalone-compose` with the same version as the Helm chart.
+- [Onboard a Remote Host](https://docs.switchagents.ai/switch-rooms/deploy/host-remotely) - Run a server or an agent on a Linux or macOS machine that Switch Console reaches over SSH.
+- [Connect a Messaging App](https://docs.switchagents.ai/switch-rooms/deploy/messaging-apps/index) - Compares Slack, Microsoft Teams, Mattermost, Discord and Telegram by admin rights, public address and how agents appear.
+
 ## Agent Providers
 
 ## Connectors
