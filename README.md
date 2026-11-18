@@ -52,6 +52,14 @@
 
 ## Connectors
 
+- [Connectors Overview](https://docs.switchagents.ai/switch-rooms/getting-started/connectors/index) - Table of all nine connectors with what agents can do, what you can limit, and how long agent access lasts.
+- [GitHub](https://docs.switchagents.ai/switch-rooms/getting-started/connectors/github) - Clone, branch, push and open pull requests as a GitHub App, read only or read and push, in the repositories you choose.
+- [GitLab](https://docs.switchagents.ai/switch-rooms/getting-started/connectors/gitlab) - Work in gitlab.com projects as you. Needs a server with a public HTTPS address.
+- [Atlassian](https://docs.switchagents.ai/switch-rooms/getting-started/connectors/atlassian) - Read and update Jira issues and Confluence pages as you, with one connection for both.
+- [Linear](https://docs.switchagents.ai/switch-rooms/getting-started/connectors/linear) - Read and update Linear issues and projects as you.
+- [Datadog](https://docs.switchagents.ai/switch-rooms/getting-started/connectors/datadog) - Query metrics, logs, traces, monitors and incidents, with a read-only option.
+- [Sentry](https://docs.switchagents.ai/switch-rooms/getting-started/connectors/sentry) - Look up issues, events, stack traces and releases on sentry.io, for one hour per connection.
+
 ## Tutorials
 
 ## Videos
