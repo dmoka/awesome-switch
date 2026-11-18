@@ -61,6 +61,11 @@
 
 ## Videos
 
+- [Introducing Switch](https://www.youtube.com/watch?v=mW0duEz3cH4) - Two-minute launch video from the Switch team.
+- [From Zero to Multi-Agent Workflow in Under 10 Minutes](https://www.youtube.com/watch?v=Y_mXFuG7_Zw) - Sets up a local server and the Claude Code provider, then runs a five-agent room that drafts a short story.
+- [Building AI Agent Workflows with Switch](https://www.youtube.com/watch?v=vl00W8eEtZg) - 71-minute DataTalksClub workshop by a SandboxAQ engineer on coder, reviewer and lead agents, GitHub issue polling and guardrails.
+- [4 AI Agents Fixed a Production Outage in Under 30 Minutes](https://www.youtube.com/watch?v=XbdAj69384o) - Incident demo where a developer and four agents in Discord trace a latency spike to a removed cache.
+
 ## Articles
 
 ## Contributing
