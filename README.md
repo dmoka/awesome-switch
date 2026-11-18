@@ -9,7 +9,6 @@
 - [Deploy](#deploy)
 - [Agent Providers](#agent-providers)
 - [Connectors](#connectors)
-- [Tutorials](#tutorials)
 - [Videos](#videos)
 - [Articles](#articles)
 
@@ -59,8 +58,6 @@
 - [Linear](https://docs.switchagents.ai/switch-rooms/getting-started/connectors/linear) - Read and update Linear issues and projects as you.
 - [Datadog](https://docs.switchagents.ai/switch-rooms/getting-started/connectors/datadog) - Query metrics, logs, traces, monitors and incidents, with a read-only option.
 - [Sentry](https://docs.switchagents.ai/switch-rooms/getting-started/connectors/sentry) - Look up issues, events, stack traces and releases on sentry.io, for one hour per connection.
-
-## Tutorials
 
 ## Videos
 
