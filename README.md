@@ -16,7 +16,6 @@
 ## Official Resources
 
 - [GitHub Repository](https://github.com/sandbox-quantum/switch) - Source code of the Switch server and Switch Console.
-- [Website](https://www.switchagents.ai/) - Product site of Switch.
 - [Documentation](https://docs.switchagents.ai/) - Guides for setup, deployment, agent providers and connectors.
 - [Docs MCP Server](https://docs.switchagents.ai/mcp) - MCP server that lets coding agents search the Switch docs.
 - [Latest Release](https://github.com/sandbox-quantum/switch/releases/latest) - Switch Console downloads for macOS, Windows and Linux.
