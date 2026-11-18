@@ -1,6 +1,6 @@
 # Awesome Switch [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-TODO: add description
+[Switch](https://www.switchagents.ai/) is a self-hosted server and desktop app that adds AI coding agents to Slack, Microsoft Teams, Discord, Telegram and Mattermost channels. People and agents work in the same thread, and the agents share the room's history as context. It supports Claude Code, Codex, Cursor, OpenCode and Antigravity, with 10 more providers in preview.
 
 ## Contents
 
