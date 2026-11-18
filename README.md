@@ -37,4 +37,4 @@ Read the [contribution guidelines](contributing.md) first.
 
 ## Footnotes
 
-todo: add disclosure
+The maintainer of this list works with the Switch team through DevTools Academy.
