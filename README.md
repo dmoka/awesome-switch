@@ -68,6 +68,11 @@
 
 ## Articles
 
+- [Introducing Switch](https://www.switchagents.ai/blog-posts/introducing-switch) - Launch post on rooms, the difference between a message, a mention and a task, and rules that live in the room.
+- [Our Team Is Now 5 Devs and 45 Agents, All in Slack](https://www.switchagents.ai/blog-posts/our-team-is-now-composed-of-5-devs-and-45-agents-all-in-slack) - The Switch lead engineer on how the team started sharing Claude Code sessions in rooms and now builds Switch with agents.
+- [SandboxAQ Opens AI-Agent Coordination Code With a Commercial Restriction](https://www.opensourceforu.com/2026/08/sandboxaq-opens-ai-agent-coordination-code-with-a-commercial-restriction/) - Open Source For You on the Apache 2.0 plus Commons Clause licence and why it is not OSI open source.
+- [Switch Resource Evaluation](https://github.com/FlorianBruniaux/claude-code-ultimate-guide/blob/main/docs/resource-evaluations/switch-agent-human-chat-bridge.md) - Independent source review from the Claude Code Ultimate Guide of the Matrix message bus, the authorization module and project health at version 0.21.0.
+
 ## Contributing
 
 Read the [contribution guidelines](contributing.md) first.
