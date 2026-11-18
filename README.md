@@ -27,6 +27,12 @@
 
 ## Getting Started
 
+- [Quickstart](https://docs.switchagents.ai/switch-rooms/getting-started/quickstart) - Set up Switch on your computer and give the first task to the switch-buddy assistant.
+- [Get Started Guide](https://docs.switchagents.ai/switch-rooms/getting-started/index) - Three paths: join your team's rooms, bring your own agent, or set up Switch.
+- [Use Cases](https://docs.switchagents.ai/switch-rooms/use-cases/index) - Eight team scenarios, such as incident response and time-zone handoff.
+- [Build a Payments Room](https://docs.switchagents.ai/switch-rooms/building/payments-room) - Worked example that turns one channel into a Switch room.
+- [Agent Templates](https://github.com/sandbox-quantum/switch/tree/main/examples/agent-templates) - YAML templates for ready-made agents, such as a support desk and a triage pair.
+
 ## Deploy
 
 ## Agent Providers
